@@ -1,0 +1,1 @@
+define("arale/puzzle/1.0.0/puzzle",["arale/popup/1.0.2/popup","$","arale/overlay/1.0.1/overlay","arale/position/1.0.0/position","arale/iframe-shim/1.0.1/iframe-shim","arale/widget/1.0.3/widget","arale/base/1.0.1/base","arale/class/1.0.0/class","arale/events/1.0.0/events"],function(a,b,c){a("arale/popup/1.0.2/popup"),a("$");var d=function(){};c.exports=d});

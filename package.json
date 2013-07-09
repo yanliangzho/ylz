@@ -1,0 +1,26 @@
+{
+  "family": "arale",
+  "name": "puzzle",
+  "version": "1.0.0",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/yanliangzho/ylz",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yanliangzho/ylz.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": ["widget"],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["puzzle.js"],
+    "alias": {
+     		"$": "$",
+        "popup": "arale/popup/1.0.2/popup"
+    },
+    "devAlias": {},
+    "engines": {}
+  }
+}
